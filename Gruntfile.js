@@ -39,7 +39,7 @@ module.exports = function(grunt) {
 					'content/header.html',
 					'content/intro.html',
 					'content/why.html',
-					'content/microsoft.html',
+					'content/example.html',
 					'content/prototyping.html',
 					'content/dependency.html',
 					'content/outro.html',
